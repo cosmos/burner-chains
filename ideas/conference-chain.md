@@ -9,7 +9,7 @@ Should be useable as a burner wallet for conference attendees to receive food at
  * Temporary IBC
  * Subkeys or other UX focused features for newcomers to blockchain
  
- Status: Proposed
+ Status: Proposal
  
  Changelog:
  - Initalized 2-12-2019
