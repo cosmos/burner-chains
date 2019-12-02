@@ -1,5 +1,6 @@
 # Name
-## Short Description
+
+### Short Description
 
 # Description
 [ text goes here ]
@@ -9,7 +10,7 @@
  * Feature Two
  * ...
  
+# Status:
  
- Status:
- 
- Changelog:
+# Changelog:
+
