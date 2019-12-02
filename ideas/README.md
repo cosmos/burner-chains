@@ -6,11 +6,10 @@
 [ text goes here ]
 
 # Possible Features
- * Feature one
+ * Feature One
  * Feature Two
  * ...
  
 # Status:
  
 # Changelog:
-
