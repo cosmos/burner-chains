@@ -2,10 +2,10 @@
 
 ### Short Description
 
-# Description
+# Description:
 [ text goes here ]
 
-# Possible Features
+# Possible Features:
  * Feature One
  * Feature Two
  * ...
