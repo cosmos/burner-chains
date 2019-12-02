@@ -15,3 +15,4 @@ This chain could be used for a lot of different purposes. I think it should begi
 # Status: Proposal
  
 # Changelog:
+ - Initalized 2-12-2019
