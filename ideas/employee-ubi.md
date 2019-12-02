@@ -2,7 +2,7 @@
 ### Every x blocks each AIB employee receives y tokens.
 
 # Description
-This chain could be used for a lot of different purposes. I think it should begin with just one feature: minting tokens for all employees at a standard rate. Once tokens are accumulating we can decide how and why we would use them. It might be good however to begin thinking about if the company is willing to exchange the tokens for goods or services (free lunch, swag, employee of the month, etc).
+This chain could be used for a lot of different purposes. It should begin with just one feature: minting tokens for all employees at a standard rate. Once tokens are accumulating we can decide how and why we would use them. It might be good however to begin thinking about if the company is willing to exchange the tokens for goods or services (free lunch, swag, employee of the month, etc).
 
 # Possible ~~Features~~ Uses
 * Karma Tokens
