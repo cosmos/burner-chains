@@ -23,3 +23,4 @@ The Cosmos-SDK has the opportunity to make a lot of improvements over the curren
 # Status: Proposal
  
 # Changelog:
+ - Initalized 2-12-2019
