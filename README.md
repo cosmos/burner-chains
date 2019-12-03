@@ -5,6 +5,7 @@
  * [Conference Chain](/ideas/conference-chain.md) (Proposal)
  * [Employee UBI](/ideas/employee-ubi.md) (Proposal)
  * [Experimint](/ideas/experimint.md) (Proposal)
+ * [Liberal Radicalism DAO](/ideas/lr-dao.md) (Proposal)
  * [Privacy Chain](/ideas/privacy-chain.md) (Proposal)
  * [UX Chain](/ideas/ux-chain.md) (Proposal)
 
