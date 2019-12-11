@@ -3,6 +3,7 @@
 
 ## Ideas:
  * [Conference Chain](/ideas/conference-chain.md) (Proposal)
+ * [CosmWasm Chain](/ideas/cosmwasm-chain.md) (Proposal)
  * [Employee UBI](/ideas/employee-ubi.md) (Proposal)
  * [Experimint](/ideas/experimint.md) (Proposal)
  * [Liberal Radicalism DAO](/ideas/lr-dao.md) (Proposal)
