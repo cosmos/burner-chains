@@ -30,3 +30,4 @@ The Cosmos-SDK has the opportunity to make a lot of improvements over the curren
  
 ## Changelog:
  - Initalized 2-12-2019
+ - Update 8-1-2020
