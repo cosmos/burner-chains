@@ -11,7 +11,7 @@ This chain acts like a scavenger hunt. Users can post challenges that come with 
  * Commit-Reveal scheme for solutions
  * Real token rewards via IBC
  
-## Status: V1 Complete
+## Status: In Progress
  
 ## Changelog:
  * Initialized 20-01-2020
