@@ -8,6 +8,7 @@
  * [Experimint](/ideas/experimint.md) (Proposal)
  * [Liberal Radicalism DAO](/ideas/lr-dao.md) (Proposal)
  * [Privacy Chain](/ideas/privacy-chain.md) (Proposal)
+ * [Scavenge Chain](/ideas/scavenge-chain.md) (In Progress)
  * [UX Chain](/ideas/ux-chain.md) (Proposal)
 
 Please make issues/PRs with your further [ideas](https://github.com/allinbits/burner-chains/tree/master/ideas).
