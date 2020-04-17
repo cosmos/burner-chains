@@ -2,6 +2,7 @@
 ### Low security experiments in application-specific blockchains using the Cosmos-SDK
 
 ## Ideas:
+ * [Casino Chain](/ideas/casino-chain.md) (Proposal)
  * [Conference Chain](/ideas/conference-chain.md) (Proposal)
  * [CosmWasm Chain](/ideas/cosmwasm-chain.md) (Proposal)
  * [Employee UBI](/ideas/employee-ubi.md) (Proposal)
